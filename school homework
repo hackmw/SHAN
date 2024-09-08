@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>HELLO MY NAME IS ERICK GUINTO </h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h2>Home</h2>
+            <p>this is how i created my website</p>
+        </section>
+        <section id="about">
+            <h2>About</h2>
+            <p>its all about coding if you want to make a wesite use html if you want to make a game use python</p>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>if you want to learn more abou coding message us on guintooerick@gmail.com</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 My Website</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
